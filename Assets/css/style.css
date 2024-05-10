@@ -208,3 +208,12 @@ section {
     border-color: #000000!important;
     color:#fafafa
 }   
+@media screen  and(max-width:767){
+    section{
+        padding: 60px 20px;
+    }
+    .card{
+        margin-bottom: 20px;
+    }
+    
+}
